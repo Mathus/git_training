@@ -1,1 +1,3 @@
+https://medium.com/@steveamaza/how-to-write-a-proper-git-commit-message-e028865e5791
+
 Hi!! I'm Bob. I'm new here.
